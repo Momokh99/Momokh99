@@ -29,7 +29,7 @@ C • Python • Bash • Linux • Neovim • Git
 
 📚 currently exploring
 
-- 8086 assembly (yes, really — it's like solving puzzles "learning because it's hard")
+- 8086 assembly (yes, really — "learning because it's hard")
 - writing C that *sometimes* doesn't segfault (progress!)
 - pentesting labs (in the plan)
 - window manager life: hyprland → niri (send configs or moral support)
