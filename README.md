@@ -1,16 +1,42 @@
-## Hi there 👋
+hey, i'm momokh99 👋
 
-<!--
-**Momokh99/Momokh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs student from morocco 🇲🇦  
+arch linux daily driver 🐧  
+terminal wanderer • config tinkerer • curious by default
 
-Here are some ideas to get you started:
+i don't have it all figured out — and that's the learning curve.  
+i break things, read docs, try again, and slowly collect "I'm an idiot moments!" moments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ stuff i play with
+
+C • Python • Bash • Linux • Neovim • Git  
+*(learning in public, configs in version control)*
+
+---
+
+✨ what i enjoy
+
+- making my desktop feel *just right* (tiling WMs, neovim, minimal setups)
+- poking at how code becomes machine instructions (slowly, with snacks)
+- learning security basics
+- tiny scripts that automate boring stuff (future-me says thanks)
+- languages: العربية • français • english • 🇪🇸 español  
+  *(not fluent — just practicin)*
+
+---
+
+📚 currently exploring
+
+- 8086 assembly (yes, really — it's like solving puzzles "learning because it's hard")
+- writing C that *sometimes* doesn't segfault (progress!)
+- pentesting labs (in the plan)
+- window manager life: hyprland → niri (send configs or moral support)
+
+---
+
+🔗 say hi
+
+[github](https://github.com/Momokh99)  
+open to: tech chats • dotfile swaps • learning together 🤙
