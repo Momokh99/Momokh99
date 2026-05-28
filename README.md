@@ -1,6 +1,6 @@
 hey, i'm momokh99 👋
 
-cs student from morocco 🇲🇦  
+student from morocco 🇲🇦  
 arch linux daily driver 🐧  
 terminal wanderer • config tinkerer • curious by default
 
