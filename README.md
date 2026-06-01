@@ -22,8 +22,7 @@ C • Python • Bash • Linux • Neovim • Git
 - poking at how code becomes machine instructions (slowly, with snacks)
 - learning security basics
 - tiny scripts that automate boring stuff (future-me says thanks)
-- languages: العربية • français • english • 🇪🇸 español  
-  *(not fluent — just practicin)*
+- languages: العربية • français • english • *( 🇪🇸 español not fluent — just practicin)*
 
 ---
 
