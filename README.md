@@ -1,7 +1,7 @@
-hey, i'm momokh99 👋
+hey, i'm momokh99
 
 student from morocco 🇲🇦  
-arch linux daily driver 🐧  
+arch linux daily driver  
 terminal wanderer • config tinkerer • curious by default
 
 i don't have it all figured out — and that's the learning curve.  
@@ -9,14 +9,14 @@ i break things, read docs, try again, and slowly collect "I'm an idiot moments!"
 
 ---
 
-🛠️ stuff i play with
+  stuff i play with
 
 C • Python • Bash • Linux • Neovim • Git  
 *(learning in public, configs in version control)*
 
 ---
 
-✨ what i enjoy
+ what i enjoy
 
 - making my desktop feel *just right* (tiling WMs, neovim, minimal setups)
 - poking at how code becomes machine instructions (slowly, with snacks)
@@ -26,7 +26,7 @@ C • Python • Bash • Linux • Neovim • Git
 
 ---
 
-📚 currently exploring
+  currently exploring
 
 - 8086 assembly (yes, really — "learning because it's hard")
 - writing C that *sometimes* doesn't segfault (progress!)
@@ -38,4 +38,4 @@ C • Python • Bash • Linux • Neovim • Git
 🔗 say hi
 
 [github](https://github.com/Momokh99)  
-open to: tech chats • dotfile swaps • learning together 🤙
+open to: tech chats • dotfile swaps • learning together 
